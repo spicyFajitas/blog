@@ -18,6 +18,7 @@ This page is a compilation of other peoples' blogs and sites that I've found nea
 - [Eighty-Twenty](https://eighty-twenty.org/)
 - [Felix Wong](https://felixwong.com/2012/07/buell-blast-tire-replacement/)
 - [idumea](https://blog.idumea.net/)
+- [iximiuz](https://labs.iximiuz.com/)
 - [Louwrentius](https://louwrentius.com/)
 - [Richard Hofmeister Red Hat](https://people.redhat.com/rhofmeis/people-page/)
 - [Serge Logvinov](https://sinextra.dev/)
