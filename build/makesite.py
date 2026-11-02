@@ -153,7 +153,7 @@ def make_pages(src, dst, layout, **params):
     """Generate pages from page content."""
     items = []
 
-    for src_path in glob.glob(src):
+    for src_path in sorted(glob.glob(src), reverse=True):
         content = read_content(src_path)
 
         # Process tags: store list for grouping and render HTML links for templates.
