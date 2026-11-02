@@ -13,7 +13,7 @@
 REPO_URL="https://github.com/spicyFajitas/blog.git"
 LOG_DIR="/home/adam/log"
 PUBLIC_HTML="/home/adam/public_html"
-SCRIPT_PATH="/home/adam/makesite/build/website_update.sh"
+SCRIPT_PATH="/home/adam/blog/build/website_update.sh"
 
 display_error_and_exit() {
     echo "Error: $1" >&2
