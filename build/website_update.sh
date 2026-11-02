@@ -10,7 +10,7 @@
 #   ~/makesite/build/website_update.sh
 #   (The script will clone public_html and register itself in cron automatically.)
 
-REPO_URL="https://github.com/spicyFajitas/makesite.git"
+REPO_URL="https://github.com/spicyFajitas/blog.git"
 LOG_DIR="/home/adam/log"
 PUBLIC_HTML="/home/adam/public_html"
 SCRIPT_PATH="/home/adam/makesite/build/website_update.sh"
